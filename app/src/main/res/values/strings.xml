@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">BottleRocket</string>
+    <string name="day_of_week">Day of week</string>
+    <string name="weather_image">weather image</string>
+    <string name="temperature">78 degrees</string>
+    <string name="city">City</string>
+    <string name="date_time">date/time</string>
+    <string name="default_city">Dallas, TX</string>
+    <string name="date_default_tv">Mon 4/21/18 11:58 PM</string>
+    <string name="default_temperature_string">75º</string>
+    <string name="day_of_week_default">Mon</string>
+    <string name="time_title">Time</string>
+    <string name="default_time">12PM</string>
+    <string name="default_chance_rain">10%</string>
+    <string name="default_wind_speed">2.2</string>
+    <string name="humidity_default">60%</string>
+    <string name="temp_title">Temp</string>
+    <string name="chance_of_rain_title">Chance of Rain</string>
+    <string name="wind_mph_title">Wind (mph)</string>
+    <string name="forecast_chance_rain_ph">%1$.2f %%</string>
+    <string name="forecast_hour_am_ph">%1$d AM</string>
+    <string name="forecast_hour_pm_ph">%1$d PM</string>
+    <string name="weekly_temp_ph">%1$d º</string>
+    <string name="til_city_name">City name</string>
+    <string name="humidity_title">Humidity</string>
+    <string-array name="week_days">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+</resources>
